@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/P2Scene/tryout.unity
+  isLoaded: 1
+  isActive: 1
