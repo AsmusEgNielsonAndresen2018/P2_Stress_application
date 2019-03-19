@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="whiteboard_with_text_on_it" size="1.400000 1.198750" />
     <ImageTarget name="testing-ar" size="0.210000 0.297048" />
     <ImageTarget name="kda" size="0.210000 0.297048" />
   </Tracking>
