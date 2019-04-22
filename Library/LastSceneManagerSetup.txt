@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/P2Scene/tryout.unity
+- path: Assets/P2Scene/marc's Daycare/huntPageTesting.unity
   isLoaded: 1
   isActive: 1
